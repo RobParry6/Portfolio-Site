@@ -49,5 +49,6 @@ li {
 .rightListItem {
     padding-inline: 32px;
     border-left: solid black 2px;
+    border-bottom: solid black 2px;
 }
 </style>
